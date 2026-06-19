@@ -1,0 +1,30 @@
+#main-page {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.main-title {
+  color: #333;
+  text-align: center;
+}
+
+#avatar-img {
+    display: block;
+    margin: 0 auto;
+    border: 4px solid #ccc;
+    border-radius: 15px;
+}
+
+.bio-header {
+  text-align:center;
+  color: #16a085;
+  line-height: 1.6;
+}
+
+.bio-text {
+  font-size: 18px;
+  text-align: center;
+  max-width: 600px;
+  margin: 10px auto;
+}
